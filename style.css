@@ -1,0 +1,237 @@
+.outercontainer {
+    background-color: #F1BF98;
+    width: 600px;
+    height: 590px;
+    color: #412234;   
+}
+
+.header {
+    background-color: beige;
+    height: 50px;
+    width: 100%;
+    
+}
+.mainbox {
+    display: flex;
+    flex-direction: row;
+
+
+}
+.element1 {
+    width: 100%;
+    background-color: #412234;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;   
+    font-family: 'Muli', sans-serif;
+    text-align: center;
+    align-items: center;
+}
+.element1 {
+    color:#F1BF98;
+}
+
+.icon1 {
+    padding-bottom: 15px;
+
+}
+.icon2 {
+    padding-bottom: 15px;
+}
+
+.icon2 {
+    padding-top: 17px;
+    padding-right: 8px;
+    font-size: 0.5cm;
+}
+.icon1 {
+    padding-top: 17px;
+    padding-left: 8px;
+    font-size: 0.5cm;
+}   
+
+.leftcontainer {
+width: 300px;
+height: 550px;
+display: flex;
+flex-direction: column;
+
+}
+
+.rightcontainer {
+    width: 300px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    background-color: #6D466B;
+    
+    
+    }
+    
+
+
+
+
+.track1 {
+    width: 100%;
+    height: 15%;
+    
+}
+.track2 {
+    width: 100%;
+    height: 15%;
+    
+     
+    border-collapse: collapse;
+}
+.track3 {
+    width: 100%;
+    height: 15%;
+   
+}
+.track4 {
+    width: 100%;
+    height: 15%;
+    
+}
+.track5 {
+    width: 100%;
+    height: 15%;
+    
+     
+   
+}
+.track6 {
+    width: 100%;
+    height: 15%;
+    
+}
+.track7 {
+    width: 100%;
+    height: 15%;
+    
+    background-color: #6D466B;
+    
+}
+
+.bigpicture{
+    width: 100%;
+    height: 55%;
+    background-color: #6D466B;
+}
+
+.undertext {
+    width: 100%;
+    height: 15%;
+    
+}
+
+.progressbar {
+    width: 100%;
+    height: 15%;
+    
+    background-color: #6D466B;
+}
+
+.menuicons {
+    widows: 100%;
+    height: 15%;
+    background-color: #6D466B;
+}
+
+
+
+.track1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.tracks {
+    line-height: 100%;
+    display: flex;
+}
+
+.playicon1 {
+    padding-top: 32px;
+    padding-left: 30px;
+    font-size: 0.5cm;
+}
+
+.firstcover {
+    padding-top: 6px;
+    padding-left: 7px;
+}
+
+.track1p1 {
+    padding-top: 8px;
+    padding-left: 9px;
+    font-family: 'Muli', sans-serif;
+}
+.bigpicture {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.bigklara {
+
+    border: 10px solid #F1BF98;
+}
+.plus {
+    font-size: 0.5cm;
+    padding-top: 31px;
+    padding-left: 25px;
+}
+.undertext3 {
+    font-family: 'Muli', sans-serif;
+    padding-left: 27px;
+    padding-top: 10px;
+    justify-items: center;
+    text-align: center;
+}
+.menuicons {
+    display: flex;
+    height: 100px;
+    
+    justify-content: space-around;
+    align-items: center;
+    
+    
+   
+}
+
+
+.back {
+    padding-left: 15px;
+    font-size: 1cm;
+}
+.front {
+    padding-right: 15px;
+    font-size: 1cm;
+}
+.playbutton {
+    font-size: 1.3cm;
+    
+}
+.progressbar1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+    font-family: 'Muli', sans-serif;
+}
+
+
+
+ /* .icon_1 {
+    margin-right: 20%;
+    padding-left: 20px;
+}
+
+.icon_2 {
+    margin-right: 10%;
+
+}
+*/ 
